@@ -8,7 +8,7 @@ Dataset source: [SQL Murder Mystery Database on Kaggle](https://www.kaggle.com/d
 
 No installs needed — click below to run every query live in your browser via Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/devyur/SQL-murder-mystery/blob/main/investigation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devyur/SQL-murder-mystery/blob/main/investigation.ipynb)
 
 Or run locally:
 
