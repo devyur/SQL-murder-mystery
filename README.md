@@ -8,14 +8,12 @@ Dataset source: [SQL Murder Mystery Database on Kaggle](https://www.kaggle.com/d
 
 No installs needed — click below to run every query live in your browser via Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/investigation.ipynb)
-
-> Replace `YOUR-USERNAME/YOUR-REPO` above with your actual GitHub path once you push this.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/devyur/SQL-murder-mystery/blob/main/investigation.ipynb)
 
 Or run locally:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/devyur/SQL-murder-mystery.git
 cd YOUR-REPO
 pip install -r requirements.txt
 jupyter notebook investigation.ipynb
